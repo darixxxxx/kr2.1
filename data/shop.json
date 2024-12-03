@@ -1,0 +1,100 @@
+[
+		{
+			"id": 1,
+			"img": "../img/atelimited.jpg",
+			"title": "ATE - limited ver.",
+			"description": "Наполнение: фотобук, CD диск, фотокарта, фото-чек, постер-портрет, мини-постер, мини-газета",
+			"price": 2890,
+			"vendor_code": "111"
+		},
+
+
+		{
+			"id": 2,
+			"img": "../img/atestandard.jpg",
+			"title": "ATE - standard ver.",
+			"description": "Наполнение: фотобук, CD диск, фотокарта, фото-чек, постер-портрет, мини-постер, мини-газета",
+			"price": 2450,
+			"vendor_code": "222"
+		},
+
+
+		{
+			"id": 3,
+			"img": "../img/rock-starlimited.jpg",
+			"title": "樂-STAR - limited ver.",
+			"description": "Наполнение: фотобук, CD диск, фотокарта, панорамный постер, стикеры, юнит фотокарта",
+			"price": 3490,
+			"vendor_code": "333"
+		},
+
+
+		{
+			"id": 4,
+			"img": "../img/rock-starstandard.jpg",
+			"title": "樂-STAR - standard ver.",
+			"description": "Наполнение: фотобук, CD диск, фотокарта, панорамный постер, стикеры, юнит фотокарта",
+			"price": 2690,
+			"vendor_code": "444"
+		},
+
+
+		{
+			"id": 5,
+			"img": "../img/5starlimited.jpg",
+			"title": "5 STAR - limited ver.",
+			"description": "Наполнение: фотобук, CD диск, рандомная фотокарта (2 шт), мини-постер, открытка, сет стикеров",
+			"price": 3450,
+			"vendor_code": "555"
+		},
+
+
+		{
+			"id": 6,
+			"img": "../img/5starstandard.jpg",
+			"title": "5 STAR - standard ver.",
+			"description": "Наполнение: фотобук, CD диск, рандомная фотокарта (2 шт), мини-постер, открытка, сет стикеров",
+			"price": 2590,
+			"vendor_code": "666"
+		},
+
+
+		{
+			"id": 7,
+			"img": "../img/maxidentlimited.jpg",
+			"title": "MAXIDENT - limited ver.",
+			"description": "Наполнение: фотобук, CD диск, лирика, фотокарта 2 шт, стикер, мини-постер рандом 1/8",
+			"price": 2890,
+			"vendor_code": "777"
+		},
+
+
+		{
+			"id": 8,
+			"img": "../img/maxidentstandard.jpg",
+			"title": "MAXIDENT - standard ver.",
+			"description": "Наполнение: фотобук, CD диск, лирика, фотокарта 2 шт, стикер, мини-постер рандом 1/8",
+			"price": 2450,
+			"vendor_code": "888"
+		},
+
+
+		{
+			"id": 9,
+			"img": "../img/oddinarylimited.jpg",
+			"title": "ODDINARY - limited ver.",
+			"description": "Наполнение: фотобук, CD диск, лирика, фотокарта 2 шт, айди карта, мини постер, стикеры",
+			"price": 2990,
+			"vendor_code": "999"
+		},
+
+
+		{
+			"id": 10,
+			"img": "../img/oddinarystandard.jpg",
+			"title": "ODDINARY - standard ver.",
+			"description": "Наполнение: фотобук, CD диск, лирика, фотокарта 2 шт, айди карта, мини постер, стикеры",
+			"price": 2450,
+			"vendor_code": "000"
+		}
+]
